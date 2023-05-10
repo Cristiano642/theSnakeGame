@@ -3,7 +3,8 @@ This is a project of a simple snake game made with HTML, CSS and JavaScript. The
 
 # How to play
 To play, you can open the index.html file in a web browser or access this link: https://snake-game-by-cristiano-esteves.onrender.com/. 
-You can use the arrow keys or the buttons on the screen to move the snake. Try to eat as many apples as you can and avoid collisions.
+You can use the arrow keys or the buttons on the screen to move the snake. The buttons on the screen only appear when you are on a phone or tablet. 
+Try to eat as many apples as you can and avoid collisions.
 
 # How to contribute
 If you want to contribute to this project, you can send suggestions, corrections or improvements through issues or pull requests. 
