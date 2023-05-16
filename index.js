@@ -65,9 +65,6 @@ const changeDirection = e =>{
 controls.forEach(button => button.addEventListener("click", () => changeDirection
 ({key: button.dataset.key})));
 
-
-
-
 const initGame = () =>{
     if(gameOver) return handleGameOver();
     let html = `<div class="food" style="grid-area: ${food.y} / ${food.x}"></div>`;
@@ -117,5 +114,3 @@ const initGame = () =>{
 updateFoodPosition();
 setIntervalId = setInterval(initGame, 100);
 document.addEventListener("keyup", changeDirection);
-
-//https://sl.bing.net/6VDNEEk9im
