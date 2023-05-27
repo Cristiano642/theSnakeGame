@@ -10,3 +10,4 @@ Try to eat as many apples as you can and avoid collisions.
 If you want to contribute to this project, you can send suggestions, corrections or improvements through issues or pull requests. 
 You can also contact me by my email: cristiano642@gmail.com
 
+I hope you enjoy my game and have fun!!
